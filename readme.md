@@ -1,1 +1,1 @@
-React_redux _kit
+React_redux _kits starter
